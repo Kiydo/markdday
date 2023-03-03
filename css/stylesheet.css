@@ -1,0 +1,72 @@
+body{
+    background-image: url("img/chaikaparty.gif");
+    /* background-repeat: repeat-x repeat-y;
+    background-repeat: repeat-y; */
+    background-repeat: repeat;
+}
+h1{
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+    font-size: 69px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+    /* position: absolute; */
+}
+section#wrapper{
+    display: flex;
+    /* white-space: nowrap; */
+    position: relative;
+    /* overflow: hidden; */
+    margin-left: 19%;
+}
+video{
+    margin-left: 40%;
+}
+.ads{
+    display: flex;
+    flex-direction: column;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+    overflow: hidden;
+    white-space: nowrap;
+    
+}
+img#ad{
+    width: 300px;
+    height: 300px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.start{
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    /* margin: 0; */
+
+}
+h2{
+    background-color: white;
+    padding: 10px;
+}
+img#uwu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-bottom: 90px;
+    
+}
+.fetish{
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+}
+.schizophrenia{
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+}
